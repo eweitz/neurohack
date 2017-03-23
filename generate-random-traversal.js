@@ -1,3 +1,5 @@
+// Derived from work by Mike Bostock, https://bl.ocks.org/mbostock/11337835
+
 var N = 1 << 0,
     S = 1 << 1,
     W = 1 << 2,
